@@ -9,16 +9,16 @@
     - Managing System Services with systemd 
     - Shell Scripting Basics & Syntax 
     - Loops & Functions
-- Day 03 
+- [Day 03](./days/3.md) 
     - User and Group Management
     - Linux Package Management
     - Linux Process and Job Management
     - Scheduled Tasks & Kernel Parameters
-- Day 04
+- [Day 04](./days/4.md)
     - SSH & Remote Access
     - Port-Forwards
     - Linux Networking Essentials
-- Day 05 
+- [Day 05](./days/5.md) 
     - Disk Partitioning & File Systems
     - LVM – Logical Volume Management
 
