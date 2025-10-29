@@ -23,7 +23,7 @@
     - LVM – Logical Volume Management
 
 🌀 Git Version Control - 1 day
-- Day 06
+- [Day 06](./days/6.md)
     - Git Fundamentals and Workflow
     - Branching
     - Merging and Collaboration.
