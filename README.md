@@ -1,4 +1,4 @@
-✅ Linux - 7 days
+✅ Linux - 5 days
 - [Day 01](./days/1.md) 
     - Introduction to Linux & Essential Commands 
     - Navigating the Linux Filesystem
