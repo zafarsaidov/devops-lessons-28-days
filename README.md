@@ -29,10 +29,10 @@
     - Merging and Collaboration.
 
 🐍 Python Programming - 2 days
-- Day 07
+- [Day 07](./days/7.md)
     - Python Basics for DevOps
     - Python script 
-- Day 08
+- [Day 08](./days/8.md)
     - Building RESTful APIs with Flask
 
 🚀 Terraform - 2 days
