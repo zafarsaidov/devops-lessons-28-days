@@ -36,10 +36,10 @@
     - Building RESTful APIs with Flask
 
 🚀 Terraform - 2 days
-- Day 09 
+- [Day 09](./days/9.md) 
     - Terraform Fundamentals
     - Core Concepts
-- Day 10 
+- [Day 10](./days/10.md) 
     - Advanced Terraform Usage 
     - Best Practices
 
