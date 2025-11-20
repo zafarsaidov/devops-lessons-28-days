@@ -44,14 +44,14 @@
     - Best Practices
 
 ⚙️ Ansible – Configuration Management - 4 days
-- Day 11 
+- [Day 11](./days/11.md) 
     - Introduction to Ansible
     - YAML Syntax
     - Inventory Files 
     - Folder Structure
 - Day 12
-    - Ansible Roles for Reusability
     - Conditionals and Loops in Ansible
+    - Ansible Roles for Reusability
 - Day 13
     - Blocks
     - Error Handling
