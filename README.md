@@ -70,37 +70,37 @@
     - lookups - https://docs.ansible.com/projects/ansible/latest/collections/index_lookup.html
 
 🐳 Docker – Containerization - 1 day
-- Day 15
+- [Day 15](./days/15.md)
     - Container Fundamentals
     - Docker Essentials
     - Docker Registry
     - Linux cgroup and namespaces
 
 ☸️ Kubernetes – Container Orchestration - 10 days
-- Day 16 
+- [Day 16 ](./days/16.md)
     - Introduction to Kubernetes & Architecture
     - kubectl & Core Resource Management
-- Day 17
+- [Day 17](./days/17.md)
     - Pods
     - Deployments
     - Manifest Files
     - Stateful Apps & Persistent Volumes
     - Daemonsets
-- Day 18
+- [Day 18](./days/18.md)
     - Services & Networking – ClusterIP, NodePort
     - Ingress & DNS
-- Day 19
+- [Day 19](./days/19.md)
     - Configuration Management (Configmaps)
     - Secrets
-- Day 20
+- [Day 20](./days/20.md)
     - Probes & Basic Scheduling Techniques
-- Day 21
+- [Day 21](./days/21.md)
     - Advanced Scheduling with Taints & Node Affinity
-- Day 22
+- [Day 22](./days/22.md)
     - Kubernetes Security Concepts - RBAC
 - Day 23
     - Cluster Setup
-- Day 24
+- [Day 24](./days/24.md)
     - Helm Templating
 - Day 25
     - Kubernetes Monitoring
