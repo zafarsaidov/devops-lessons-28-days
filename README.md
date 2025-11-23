@@ -49,16 +49,25 @@
     - YAML Syntax
     - Inventory Files 
     - Folder Structure
-- Day 12
+    - Ansible Configuration
+- [Day 12](./days/12.md)
     - Conditionals and Loops in Ansible
     - Ansible Roles for Reusability
-- Day 13
+- [Day 13](./days/13.md)
     - Blocks
     - Error Handling
     - Templating
-- Day 14
-    - Ansible Configuration
+- [Day 14](./days/14.md)
     - Ansible Tags
+    - Verbosity
+    - Dry runs
+- Additional themes
+    - debug
+    - become
+    - set_fact
+    - delegate_to
+    - run_once
+    - lookups - https://docs.ansible.com/projects/ansible/latest/collections/index_lookup.html
 
 🐳 Docker – Containerization - 1 day
 - Day 15
